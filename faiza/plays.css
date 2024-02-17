@@ -1,0 +1,13 @@
+div p {
+    border: 2px dashed green;
+    /*this selector is used for descendants
+    div is the parent and p is he child*/
+}
+
+p.error.owo {
+    /*this only targets p tags with both classes*/
+
+    column-count: 4;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 196, 232);
+}

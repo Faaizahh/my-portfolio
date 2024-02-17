@@ -1,0 +1,27 @@
+h1 {
+    color: orange;
+    background-color: slategray;
+    font-size: 20px;
+    text-decoration: line-through;
+    text-align: center;
+    font-family: arial;
+
+}
+
+p {
+    color: slategray;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 1px;
+    column-count: 4;
+    column-gap: 60px;
+    border-bottom: 4px dotted #800020;
+
+
+
+}
+
+li {
+    list-style-type: none;
+    text-shadow: 2px 2px blue;
+}
